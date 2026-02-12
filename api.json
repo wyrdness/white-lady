@@ -1,0 +1,373 @@
+{
+  "category": "GHOST",
+
+  "meta": {
+    "version": "1.0.0",
+    "schema_version": "1.0.0",
+    "last_updated": "2026-01-14",
+    "repository": "https://github.com/wyrdness/white-lady",
+    "maintainers": [
+      {
+        "name": "Wyrdness Team",
+        "github": "wyrdness",
+        "role": "maintainer"
+      }
+    ],
+    "license": {
+      "data": "CC0-1.0",
+      "content": "CC-BY-4.0"
+    }
+  },
+
+  "phenomenon": {
+    "id": "white-lady",
+    "name": "White Lady",
+    "aliases": [
+      {
+        "name": "Woman in White",
+        "language": "English",
+        "region": "Global",
+        "meaning": "Descriptive variant"
+      },
+      {
+        "name": "Lady in White",
+        "language": "English",
+        "region": "Global",
+        "meaning": "Descriptive variant"
+      },
+      {
+        "name": "White Lady of Balete Drive",
+        "region": "Philippines",
+        "meaning": "Famous specific location variant"
+      }
+    ],
+    "category": "GHOST",
+    "subcategory": "Urban Legend",
+    "tags": [
+      "ghost",
+      "urban-legend",
+      "apparition",
+      "roadside",
+      "tragic-death",
+      "female-spirit",
+      "global"
+    ],
+    "status": "active",
+    "description": {
+      "summary": "A universal ghost archetype appearing worldwide - a female spirit in a white dress or gown, typically appearing near specific locations such as roads, bridges, or buildings where she died tragically.",
+      "full": "The White Lady is one of the most widespread ghost archetypes found across cultures worldwide. She appears as a female spirit dressed in white, typically a white dress, gown, or wedding dress. These apparitions are associated with specific locations - most commonly roads (as a hitchhiker variant), bridges, hospitals, or buildings where the woman died. The circumstances of death are usually tragic: murder, suicide, accident, or death in childbirth. Behavior varies from harmless observation to malevolent attacks, though most accounts describe a sorrowful or mournful presence. Famous examples include the White Lady of Balete Drive in the Philippines, Resurrection Mary in Chicago, and countless local variants worldwide. The phenomenon often overlaps with other ghost archetypes like the Vanishing Hitchhiker and has connections to folkloric figures like La Llorona. The White Lady represents themes of unfinished business, tragic death, and often serves as a warning or omen. The archetype remains extremely common in urban legends, with specific locations worldwide having their own White Lady stories continuing into the present day."
+    },
+    "etymology": {
+      "origin": "Descriptive English term based on the ghost's appearance in white clothing",
+      "meaning": "Ghost or spirit of a woman dressed in white",
+      "first_use": "Term used for centuries across English-speaking cultures, with equivalents in many languages"
+    }
+  },
+
+  "classification": {
+    "taxonomy": {
+      "category": "GHOST",
+      "type": "Apparition",
+      "subtype": "Location-Bound Spirit",
+      "variant": "Universal Archetype"
+    },
+    "related_phenomena": [
+      {
+        "id": "vanishing-hitchhiker",
+        "name": "Vanishing Hitchhiker",
+        "relationship": "overlapping",
+        "description": "Often the White Lady appears as a hitchhiker who vanishes"
+      },
+      {
+        "id": "la-llorona",
+        "name": "La Llorona",
+        "relationship": "cultural_variant",
+        "description": "Weeping woman in white from Latin American folklore"
+      },
+      {
+        "id": "banshee",
+        "name": "Banshee",
+        "relationship": "similar",
+        "description": "Irish female spirit, often appears in white"
+      }
+    ]
+  },
+
+  "characteristics": {
+    "physical": {
+      "features": [
+        {
+          "feature": "White clothing",
+          "description": "Appears in white dress, gown, or wedding dress",
+          "frequency": "always"
+        },
+        {
+          "feature": "Female form",
+          "description": "Appears as a woman, often young",
+          "frequency": "always"
+        },
+        {
+          "feature": "Pale or translucent",
+          "description": "Pale skin, sometimes transparent or glowing",
+          "frequency": "common"
+        },
+        {
+          "feature": "Long hair",
+          "description": "Often described with long, dark or light hair",
+          "frequency": "common"
+        },
+        {
+          "feature": "Pristine or bloody",
+          "description": "Clothing sometimes pristine white, sometimes bloodstained",
+          "frequency": "variable"
+        },
+        {
+          "feature": "Faceless or detailed",
+          "description": "Sometimes has no visible face, other times highly detailed features",
+          "frequency": "variable"
+        }
+      ],
+      "morphology": "Female humanoid spirit dressed in white. Appearance ranges from solid and realistic to transparent and ethereal."
+    },
+    "abilities": [
+      {
+        "ability": "Apparition",
+        "description": "Appears and disappears suddenly",
+        "frequency": "always",
+        "evidence_level": "reported"
+      },
+      {
+        "ability": "Location binding",
+        "description": "Tied to specific location, usually site of death",
+        "frequency": "always",
+        "evidence_level": "reported"
+      },
+      {
+        "ability": "Manifestation",
+        "description": "Can appear solid enough to interact with or ethereal",
+        "frequency": "common",
+        "evidence_level": "reported"
+      },
+      {
+        "ability": "Temperature drop",
+        "description": "Presence associated with sudden cold",
+        "frequency": "common",
+        "evidence_level": "reported"
+      },
+      {
+        "ability": "Communication",
+        "description": "Some accounts include speaking or gesturing",
+        "frequency": "occasional",
+        "evidence_level": "reported"
+      }
+    ],
+    "behavior": {
+      "activity_period": "nocturnal",
+      "disposition": "variable",
+      "social_structure": "solitary",
+      "habitat_preference": [
+        "roads and highways",
+        "bridges",
+        "hospitals",
+        "buildings where she died",
+        "accident sites"
+      ],
+      "patterns": [
+        "Appears to travelers",
+        "Often near site of death",
+        "May flag down cars or appear as hitchhiker",
+        "Behavior ranges from harmless observation to malevolent",
+        "Sometimes crying or mournful",
+        "May vanish suddenly",
+        "Appears on anniversaries or specific dates"
+      ]
+    }
+  },
+
+  "distribution": {
+    "range": {
+      "description": "Worldwide phenomenon with reports from every inhabited continent. Universal ghost archetype appearing in diverse cultures with local variations.",
+      "continents": ["All inhabited continents"],
+      "countries": ["Global - reports from most countries"],
+      "regions": [
+        "Philippines (Balete Drive)",
+        "United States (multiple locations)",
+        "United Kingdom (multiple locations)",
+        "Latin America",
+        "Europe",
+        "Asia",
+        "Australia"
+      ]
+    },
+    "temporal": {
+      "first_recorded": {
+        "date": "Ancient",
+        "circa": true,
+        "source": "Ghost stories of women in white date back centuries across cultures"
+      },
+      "peak_activity_periods": [
+        {
+          "period": "Traditional folklore era",
+          "description": "Long history in folklore and ghost stories"
+        },
+        {
+          "period": "Modern urban legend era",
+          "description": "Extremely common in 20th-21st century urban legends"
+        }
+      ]
+    }
+  },
+
+  "famous_examples": [
+    {
+      "name": "White Lady of Balete Drive",
+      "location": "Balete Drive, Quezon City, Philippines",
+      "description": "Famous apparition appearing on this road, often to taxi drivers. Described as a woman in white who appears suddenly, sometimes in back seat of cars.",
+      "death_type": "Accident (varying accounts)",
+      "status": "Active urban legend"
+    },
+    {
+      "name": "Resurrection Mary",
+      "location": "Chicago, Illinois, USA",
+      "description": "Hitchhiker ghost near Resurrection Cemetery, appears as young woman in white party dress",
+      "death_type": "Car accident in 1930s",
+      "status": "Famous American ghost story"
+    },
+    {
+      "name": "White Lady of Chingle Hall",
+      "location": "Chingle Hall, Lancashire, England",
+      "description": "Woman in white appearing in historic manor house",
+      "death_type": "Various legends",
+      "status": "Historic haunting"
+    },
+    {
+      "name": "White Lady of the Highways",
+      "location": "Various highways, multiple countries",
+      "description": "Generic type appearing on highways, often as hitchhiker",
+      "death_type": "Usually car accident",
+      "status": "Common urban legend variant"
+    }
+  ],
+
+  "history": {
+    "origins": {
+      "cultural_roots": "Universal archetype appearing independently across cultures. May reflect common human experiences of grief, tragedy, and unfinished business after death.",
+      "earliest_accounts": "Stories of female ghosts in white clothing date back centuries in European, Asian, and other traditions.",
+      "folklore_connections": "Connected to broader traditions of female spirits, tragic death ghosts, and location-bound hauntings worldwide."
+    },
+    "timeline": [
+      {
+        "date": "Ancient-Medieval",
+        "event": "Early ghost stories featuring women in white",
+        "significance": "Archetype established in multiple cultures",
+        "source": "Historical folklore collections"
+      },
+      {
+        "date": "19th century",
+        "event": "Victorian era ghost stories",
+        "significance": "White Lady stories proliferate in literature and oral tradition",
+        "source": "Victorian literature and folklore"
+      },
+      {
+        "date": "20th century",
+        "event": "Automobile era adaptation",
+        "significance": "White Lady adapted to road and highway settings, hitchhiker variant emerges",
+        "source": "Modern urban legends"
+      },
+      {
+        "date": "Late 20th-21st century",
+        "event": "Global urban legend status",
+        "significance": "Nearly every culture has local White Lady variants, internet spreads stories",
+        "source": "Contemporary folklore studies"
+      }
+    ],
+    "modern_era": "The White Lady remains one of the most common ghost archetypes worldwide, with new sightings and location-specific variants continuing to emerge. The internet has facilitated rapid spread and comparison of White Lady stories across cultures."
+  },
+
+  "cultural": {
+    "folklore": {
+      "traditions": [
+        "Roadside ghost stories",
+        "Hitchhiker warnings",
+        "Location-specific hauntings",
+        "Tragic death remembrance"
+      ],
+      "stories": [
+        "Countless local variants worldwide",
+        "Hitchhiker disappearances",
+        "Cemetery encounters",
+        "Bridge apparitions"
+      ],
+      "beliefs": "Represents restless spirits with unfinished business, often tragic victims seeking justice, reunion, or unable to accept death."
+    },
+    "popular_culture": {
+      "literature": [
+        "Countless ghost story collections",
+        "Urban legend compilations",
+        "Local folklore books worldwide"
+      ],
+      "film_tv": [
+        "\"The Woman in Black\" (novel and films)",
+        "Numerous horror films featuring white-clad female ghosts",
+        "Asian horror cinema (white-clothed ghosts common)",
+        "Urban legend documentary series"
+      ],
+      "games": [
+        "Horror games featuring ghost women in white",
+        "Urban legend-based games"
+      ],
+      "other": [
+        "Tourist attractions at famous White Lady locations",
+        "Ghost tours worldwide",
+        "Internet creepypasta and urban legend sites"
+      ]
+    }
+  },
+
+  "interpretation": {
+    "symbolism": [
+      "Unfinished business after death",
+      "Tragic death and grief",
+      "Warning or omen",
+      "Innocence lost (white clothing symbolism)",
+      "Female victim archetype"
+    ],
+    "psychological_theories": [
+      "Grief manifestation",
+      "Collective cultural memory of tragedy",
+      "Projection of guilt or fear",
+      "Liminal space anxiety (roads, bridges, boundaries)"
+    ],
+    "sociological_analysis": "White Lady legends often reflect cultural anxieties about: female vulnerability, tragic death, unresolved trauma, and dangerous locations. The prevalence near roads may relate to automobile culture and highway danger awareness."
+  },
+
+  "sources": [
+    {
+      "id": "brunvand-1981",
+      "type": "book",
+      "title": "The Vanishing Hitchhiker: American Urban Legends and Their Meanings",
+      "authors": ["Jan Harold Brunvand"],
+      "publication": "W. W. Norton & Company",
+      "date": "1981",
+      "isbn": "978-0393951691"
+    },
+    {
+      "id": "guiley-2007",
+      "type": "book",
+      "title": "The Encyclopedia of Ghosts and Spirits",
+      "authors": ["Rosemary Ellen Guiley"],
+      "publication": "Facts on File",
+      "date": "2007",
+      "isbn": "978-0816073047"
+    },
+    {
+      "id": "hauck-2002",
+      "type": "book",
+      "title": "Haunted Places: The National Directory",
+      "authors": ["Dennis William Hauck"],
+      "publication": "Penguin Books",
+      "date": "2002",
+      "isbn": "978-0142002346"
+    }
+  ]
+}
