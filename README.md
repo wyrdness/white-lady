@@ -1,375 +1,203 @@
 # White Lady
 
-> *"She stands at the roadside in her white dress, waiting for someone who will never come."*
+> A globally recurring ghost archetype: a female apparition in white clothing tied to a specific location and a story of tragic, often violent death — most commonly suicide, murder, accident, or death in childbirth.
 
-[![API Version](https://img.shields.io/badge/api-v1.0.0-blue)]()
-[![Last Updated](https://img.shields.io/badge/updated-2026--01--14-green)]()
-[![Status](https://img.shields.io/badge/status-active-brightgreen)]()
+[![API Version](https://img.shields.io/badge/api-v1.1.0-blue)]() [![Last Updated](https://img.shields.io/badge/updated-2026-05-07-green)]() [![Sightings](https://img.shields.io/badge/sightings-0-orange)]() ![Status](https://img.shields.io/badge/status-active-blue)
 
 ---
-
 ## Quick Reference
 
 | Property | Value |
-|----------|-------|
+|---|---|
 | **ID** | `white-lady` |
-| **Category** | GHOST / URBAN_LEGEND |
-| **Classification** | Apparition / Location-Bound Spirit |
-| **First Recorded** | Ancient (centuries across cultures) |
-| **Primary Region** | Global (Universal archetype) |
-| **Status** | Active urban legend globally |
+| **Category** | GHOST_HAUNTING |
+| **Subcategory** | Female ghost archetype |
+| **First recorded** | 1429 |
+| **Primary range** | The White Lady is a globally distributed archetype with attested local traditions across Europe (Germany, Czech Republic, England, Wales, Ireland, Netherlands, Switzerland, Hungary, Estonia, Russia, Serbia), the Americas (United States, Brazil), and parts of Asia (Philippines, Thailand) |
+| **Status** | active |
 
 ---
-
 ## Overview
 
-The White Lady is one of the most widespread ghost archetypes found across cultures worldwide. She appears as a female spirit dressed in white, typically a white dress, gown, or wedding dress. These apparitions are associated with specific locations - most commonly roads (as a hitchhiker variant), bridges, hospitals, or buildings where the woman died.
-
-The circumstances of death are usually tragic: murder, suicide, accident, or death in childbirth. Behavior varies from harmless observation to malevolent attacks, though most accounts describe a sorrowful or mournful presence.
-
-The White Lady represents themes of unfinished business, tragic death, and often serves as a warning or omen. The archetype remains extremely common in urban legends, with specific locations worldwide having their own White Lady stories.
+The 'White Lady' is one of the most widely distributed ghost archetypes in the world. Apparitions matching the type — a female figure dressed in white (often a wedding dress, gown, or shroud), tied to a particular castle, road, bridge, hospital, lake, or rural site — appear in folklore and reported sightings across Europe, the Americas, and parts of Asia. The associated narrative is almost always one of tragedy: the woman is said to have been murdered, to have died in childbirth, to have lost a husband or fiancé, or to have taken her own life, and her spirit is bound to the place by unfinished business, grief, or vengeance. Behavior ranges from sorrowful watching to active hauntings, and in some traditions she is an omen of death (notably the German Berliner Schloss apparition reportedly seen before the deaths of members of the House of Hohenzollern). White Lady traditions span centuries: medieval Czech accounts of Perchta of Rožmberk (c. 1429–1476), early-modern German court legends, 19th- and 20th-century English country-house and roadside stories, and modern urban legends such as the Balete Drive White Lady in the Philippines and the Lady of White Rock Lake in Dallas. Folklorists treat the figure as an archetype rather than a single entity, a recurring narrative slot that is locally inhabited by countless individual ghost stories.
 
 ---
+## Names & Aliases
 
-## Etymology & Names
+| Name | Origin | Meaning |
+|---|---|---|
+| Dama Branca | Portuguese / Brazil |  |
+| Mulher de Branco | Portuguese / Brazil |  |
+| Weiße Frau | German / Germany |  |
+| Witte Wieven | Dutch / Low Saxon / Netherlands and surrounding Low Saxon area |  |
+| Y Ladi Wen | Welsh / Wales | The White Lady |
+| Lady in White | Anglophone usage |  |
+| Lady of the Lake (Rochester) | Durand-Eastman Park, Rochester, New York, USA |  |
+| Balete Drive White Lady | Quezon City, Philippines |  |
+| La Llorona (related) | Spanish / Latin America | The Weeping Woman; a related but distinct white-clad female-ghost archetype |
 
-### Primary Name
-- **White Lady** — Descriptive English term based on the ghost's appearance in white clothing. Used for centuries across English-speaking cultures, with equivalents in many languages.
+## Etymology
 
-### Alternative Names
-
-| Name | Language/Region | Meaning |
-|------|-----------------|---------|
-| Woman in White | English (Global) | Descriptive variant |
-| Lady in White | English (Global) | Descriptive variant |
-| White Lady of Balete Drive | Philippines | Famous specific location variant |
-
----
-
-## Classification
-
-### Taxonomy
-```
-Category: GHOST
-├── Type: Apparition
-├── Subtype: Location-Bound Spirit
-└── Variant: Universal Archetype
-```
-
-### Related Phenomena
-
-| Phenomenon | Relationship | Description |
-|------------|--------------|-------------|
-| [Vanishing Hitchhiker](/vanishing-hitchhiker) | Overlapping | Often the White Lady appears as a hitchhiker who vanishes |
-| [La Llorona](/la-llorona) | Cultural variant | Weeping woman in white from Latin American folklore |
-| [Banshee](/banshee) | Similar | Irish female spirit, often appears in white |
+- **Origin**: English calque of widespread European usages — German 'Weiße Frau', Dutch 'Witte Wieven', Welsh 'Y Ladi Wen' — referring to the recurring colour-coded female-ghost type.
+- **Meaning**: Literally 'White Lady', the white usually being a wedding dress, shroud, gown, or simply 'white clothing' as a marker of a returning spirit.
+- **First use**: Medieval European usage; English-language 'White Lady' attested in ghost-lore writing from at least the 19th century.
 
 ---
+## Related Phenomena
 
-## Characteristics
+- [La Llorona](../la-llorona/) — _similar_: Latin American 'Weeping Woman' in white, tied to drowned children
+- [Banshee](../banshee/) — _similar_: Irish female death-omen spirit, sometimes white-clad
+- [Perchta](../perchta/) — _related_: Alpine female spirit; the historical Perchta of Rožmberk is the most famous Czech White Lady
+- [Yuki-onna](../yuki-onna/) — _similar_: Japanese 'Snow Woman' — a white-clad female spirit of cold and winter
+- [Kuchisake-onna](../kuchisake-onna/) — _related_: Modern Japanese female-ghost urban legend
 
-### Physical Description
+---
+## Physical Description
 
-**Core Features:**
-- Female form (usually young woman)
-- White dress, gown, or wedding dress (always)
-- Pale or translucent appearance
-- Long hair (dark or light)
+- **Coloration**: white (gown, dress, shroud, wedding dress)
+- **Morphology**: Anthropomorphic female apparition; most accounts describe a recognisable human form rather than a distorted one.
 
-**Variations:**
-- Pristine white clothing OR bloodstained
-- Visible detailed face OR faceless
-- Solid and realistic OR transparent and ethereal
-
-### Distinguishing Features
+### Features
 
 | Feature | Description | Frequency |
-|---------|-------------|-----------|
-| White clothing | White dress, gown, or wedding dress | Always |
-| Female form | Appears as a woman, often young | Always |
-| Pale appearance | Pale skin, sometimes transparent or glowing | Common |
-| Long hair | Often described with long hair | Common |
-| Blood/pristine | Clothing pristine or bloodstained | Variable |
-| Face | Sometimes faceless, other times detailed | Variable |
+|---|---|---|
+| White clothing | Most consistent feature: a white dress, gown, wedding dress, or shroud | always |
+| Female form | Almost always reported as a woman, frequently young or middle-aged | always |
+| Pale or luminous appearance | Often described as pale, glowing, or semi-transparent | common |
+| Long hair | Frequently long and dark, sometimes obscuring the face | common |
+| Sorrowful expression or weeping | Many accounts emphasise grief or weeping rather than malevolence | common |
 
-### Reported Abilities
+## Reported Abilities
 
-| Ability | Description | Evidence Level |
-|---------|-------------|----------------|
-| Apparition | Appears and disappears suddenly | Reported |
-| Location binding | Tied to specific location, usually site of death | Reported |
-| Manifestation | Can appear solid or ethereal | Reported |
-| Temperature drop | Presence associated with sudden cold | Reported |
-| Communication | Some accounts include speaking or gesturing | Reported |
+| Ability | Description | Frequency | Evidence |
+|---|---|---|---|
+| Apparition / visual manifestation | Appears as a visible figure, often at a specific location and time | always | reported |
+| Death omen | In certain traditions (notably the Berliner Schloss legend), her appearance presages a death in the associated family | occasional | folklore |
+| Roadside / vehicular haunting | Modern variants (e.g. Balete Drive, White Rock Lake, the Beeford 'Running Lady') feature her appearing to drivers or as a phantom hitchhiker | common | reported |
+| Selective benevolence/hostility | Some Witte Wieven and Welsh Y Ladi Wen traditions describe her as helpful or treasure-guarding rather than malevolent | occasional | folklore |
 
-### Behavioral Patterns
+## Behavior
 
-- **Activity Period**: Nocturnal (primarily)
-- **Disposition**: Variable (harmless to malevolent)
-- **Social Structure**: Solitary
-- **Locations**: Roads, bridges, hospitals, death sites
-- **Common Behaviors**:
-  - Appears to travelers
-  - Often near site of death
-  - May flag down cars or appear as hitchhiker
-  - Sometimes crying or mournful
-  - Vanishes suddenly
-  - Appears on anniversaries or specific dates
+- **Activity**: nocturnal
+- **Disposition**: variable
+- **Social structure**: solitary
+- **Habitat**: castles and historic houses, rural roads and bridges, lakes and rivers, hospitals and ruined buildings, wedding-associated sites
+- **Diet**: Not applicable
 
 ---
+## Distribution
 
-## Common Locations
+The White Lady is a globally distributed archetype with attested local traditions across Europe (Germany, Czech Republic, England, Wales, Ireland, Netherlands, Switzerland, Hungary, Estonia, Russia, Serbia), the Americas (United States, Brazil), and parts of Asia (Philippines, Thailand).
 
-### Where White Ladies Appear
+### Hotspots
 
-| Location Type | Description | Examples |
-|---------------|-------------|----------|
-| Roads & highways | Most common, often as hitchhiker | Balete Drive (Philippines), various highways |
-| Bridges | Appears on or near bridges | Numerous bridge hauntings worldwide |
-| Hospitals | Buildings where death occurred | Hospital corridors, specific rooms |
-| Accident sites | Location of fatal accident | Crash sites on roads |
-| Historic buildings | Manor houses, castles | Chingle Hall (England) |
-| Cemeteries | Near or leaving cemetery | Resurrection Mary (Chicago) |
-
----
-
-## Famous Examples
-
-### White Lady of Balete Drive 🇵🇭
-
-> **Location**: Balete Drive, Quezon City, Philippines
-> **Famous For**: One of the most famous White Lady hauntings in Asia
-
-**Story:**
-Appears on this road, often to taxi drivers and late-night motorists. Described as a woman in white who appears suddenly - sometimes standing at roadside, sometimes materializing in the back seat of cars. Various accounts of her death, most involving a tragic accident on the road.
-
-**Status:** Active urban legend, well-known in Filipino culture
+| Location | Region | Sightings | Peak |
+|---|---|---|---|
+| Berliner Schloss (Berlin City Palace) | Berlin, Germany |  | 1598–1940 |
+| Český Krumlov / Rožmberk | Bohemia, Czech Republic |  | 15th century–present |
+| Balete Drive | Quezon City, Metro Manila, Philippines |  | 1950s–present |
+| White Rock Lake | Dallas, Texas, United States |  | 1960s–present |
+| Worstead Church | Norfolk, England, United Kingdom |  | 19th century–present |
 
 ---
-
-### Resurrection Mary 🇺🇸
-
-> **Location**: Archer Avenue, Chicago, Illinois, USA
-> **Famous For**: America's most famous vanishing hitchhiker
-
-**Story:**
-Young woman in white party dress appears near Resurrection Cemetery, flags down cars for rides. Vanishes from moving vehicles or at cemetery gates. Said to be victim of car accident in 1930s after leaving dance hall.
-
-**Status:** Famous American ghost story, ongoing reports
-
----
-
-### White Lady of Chingle Hall 🇬🇧
-
-> **Location**: Chingle Hall, Lancashire, England
-> **Famous For**: Historic manor house haunting
-
-**Story:**
-Woman in white appearing in one of England's most haunted buildings. Multiple legends about her identity and death circumstances.
-
-**Status:** Historic haunting, tourist attraction
-
----
-
-## Death Circumstances
-
-### Common Causes of Death in White Lady Legends
-
-| Cause | Frequency | Examples |
-|-------|-----------|----------|
-| Car accident | Very common | Highway White Ladies, Resurrection Mary |
-| Murder | Common | Various murdered bride stories |
-| Suicide | Common | Bridge jumpers, tragic love stories |
-| Death in childbirth | Occasional | Hospital White Ladies |
-| Accident (other) | Common | Various tragic accidents |
-| Disease | Occasional | Hospital or sanatorium ghosts |
-
-**Pattern:** Almost all White Lady legends involve tragic, untimely death - often of young women.
-
----
-
-## Behavioral Variations
-
-### Harmless White Ladies
-- Appears but doesn't interact
-- Simply walks or stands
-- Vanishes when approached
-- Seems sad or mournful
-- No threat to witnesses
-
-### Interactive White Ladies
-- Flags down cars (hitchhiker variant)
-- Speaks to witnesses
-- Provides address or information
-- Accepts rides
-- May leave physical evidence (item on grave)
-
-### Malevolent White Ladies
-- Attacks witnesses
-- Causes accidents
-- Induces fear or illness
-- Pursues fleeing witnesses
-- Harmful intentions
-
-**Note:** Most accounts fall into harmless or interactive categories.
-
----
-
-## Symbolism & Meaning
-
-### Cultural Symbolism
-
-**White Clothing Represents:**
-- Innocence lost
-- Wedding dress (unfulfilled marriage)
-- Burial shroud
-- Purity and tragedy combined
-- Visibility in darkness
-
-**Themes:**
-- Unfinished business after death
-- Tragic death and grief
-- Warning or omen
-- Female victim archetype
-- Inability to move on
-
-### Psychological Interpretations
-
-- **Grief manifestation**: Collective processing of tragic death
-- **Cultural memory**: Preserving awareness of tragedy
-- **Projection**: Guilt or fear about dangerous locations
-- **Liminal anxiety**: Fear of boundary spaces (roads, bridges)
-
-### Sociological Analysis
-
-White Lady legends often reflect cultural anxieties about:
-- Female vulnerability
-- Tragic death
-- Unresolved trauma
-- Dangerous locations
-- Automobile culture and highway danger
-
----
-
-## Geographic Distribution
-
-### Global Phenomenon
-
-**Presence:** Every inhabited continent has White Lady variants
-
-**Regional Examples:**
-- **Philippines**: Balete Drive White Lady, various locations
-- **United States**: Resurrection Mary, highway White Ladies nationwide
-- **United Kingdom**: Numerous castle and road hauntings
-- **Latin America**: Often overlaps with La Llorona
-- **Europe**: Historic and modern variants
-- **Asia**: Common in folklore and urban legends
-- **Australia**: Road and bridge hauntings
-
----
-
 ## Historical Timeline
 
-### Evolution of the Archetype
+| Date | Event | Significance |
+|---|---|---|
+| 1429 | Approximate birth of Perchta of Rožmberk (d. 1476), later identified as the Czech 'White Lady' | Earliest named historical figure attached to a major White Lady tradition |
+| 1598 | Reported appearance of the Weiße Frau at the Berliner Schloss before the death of John George of Brandenburg | Founding event of the most famous German White Lady tradition |
+| 1618 | Reappearance of the Berliner Schloss White Lady | Reinforces the tradition as a Hohenzollern death-omen |
+| 1625 | Further reported sighting of the Berliner Schloss White Lady | Continues the dynastic-omen pattern |
+| 1830 | Worstead Church (Norfolk) White Lady stories first widely circulated | Documented English country-church example |
+| 1950 | Balete Drive White Lady modern urban legend takes shape in Quezon City; reportedly originated in 1950s Manila newspaper coverage | Canonical 20th-century urban-legend White Lady |
+| 1960 | Newspaper accounts of the 'Lady of White Rock Lake' phantom hitchhiker in Dallas | Emblematic American 20th-century White Lady |
+| 1975 | Worstead Church White Lady allegedly photographed | Often-cited but disputed photograph in the modern White Lady canon |
 
-| Period | Development | Significance |
-|--------|-------------|--------------|
-| Ancient-Medieval | Early ghost stories of women in white | Archetype established across cultures |
-| 19th century | Victorian era ghost stories | White Lady stories proliferate in literature |
-| 20th century | Automobile era adaptation | Road/highway setting, hitchhiker variant emerges |
-| Late 20th-21st century | Global urban legend status | Nearly every culture has local variants |
+---
+## Notable Sightings
 
-### Modern Era
-
-The White Lady remains one of the most common ghost archetypes worldwide. The internet has facilitated rapid spread and comparison of stories across cultures, while new sightings and location-specific variants continue to emerge.
+### Berliner Schloss Weiße Frau (1598) ⭐
+> **Date**: 1598-01-01  
+> **Location**: Berliner Schloss (Berlin City Palace)  
+A White Lady is reported to have appeared at the Berliner Schloss shortly before the death of John George of Brandenburg, founding the long-running Hohenzollern Weiße Frau death-omen tradition.
+**Credibility**: low — Cited as the seed event of the Berlin White Lady tradition; further sightings recorded in 1618 and 1625.
+**Sources**: Wikipedia, 'White Lady (ghost)'
 
 ---
 
-## Connection to Other Phenomena
-
-### Vanishing Hitchhiker Overlap
-
-Many White Lady stories are also Vanishing Hitchhiker stories:
-- Woman in white flags down car
-- Accepts ride
-- Provides address
-- Vanishes from moving vehicle or at destination
-- Driver discovers she died years ago
-
-### La Llorona Connection
-
-The weeping woman of Latin American folklore shares characteristics:
-- Woman in white
-- Tragic death
-- Associated with water/roads
-- Warning figure
-- Seeks something lost (children/life)
+### Worstead Church White Lady photograph ⭐
+> **Date**: 1975-01-01  
+> **Location**: St Mary's Church, Worstead  
+A photograph taken at St Mary's Church, Worstead, reportedly shows a faint figure of a woman in old-fashioned white clothing with a bonnet — long associated with the village's pre-existing 1830s White Lady stories.
+**Credibility**: low — Often cited in UK White Lady literature.
+**Sources**: Wikipedia, 'White Lady (ghost)'
 
 ---
+
+
+## Evidence
+
+### Photographic
+
+| Name | Date | Description | Status |
+|---|---|---|---|
+| Worstead Church White Lady photograph | 1975 | Alleged photograph of a White Lady figure at St Mary's Church, Worstead, Norfolk. | disputed |
+### Documentary
+
+| Name | Date | Description | Status |
+|---|---|---|---|
+| European and global White Lady tradition corpus |  | Centuries-deep body of named local White Lady legends across at least 15 countries, documented in folklore studies, regional histories and tourism literature. | unverified |
+
+---
+## Theories & Explanations
+
+### Paranormal / Cryptozoological
+
+**Place-bound female revenant** _(Spiritualist-era ghost-hunting tradition, Many regional folk traditions)_
+
+The White Lady is the spirit of a specific woman who died tragically, bound to a location by unfinished business, grief, or violent death.
+
+**Death-omen entity** _(German aristocratic ghost-lore)_
+
+In some lineages (notably the Hohenzollern Berliner Schloss tradition), the White Lady is interpreted as a herald announcing the death of a member of the associated family.
+
+### Skeptical
+
+**Folkloric archetype** _(Folklorists generally)_
+
+The White Lady is best understood not as a single phenomenon but as a recurring cultural archetype: the female-in-white tragic-death ghost is a narrative slot that local communities fill with their own stories.
+
+**Misperception and cultural priming** _(General skeptical / parapsychology-skeptical literature)_
+
+Many sightings can be explained by misidentification (mist, white-painted statues, clothing on hangers, animals), pareidolia, hypnagogic states, and cultural priming when entering a location already known for a White Lady legend.
+
 
 ## Popular Culture
 
-### Literature
-- Countless ghost story collections
-- Urban legend compilations
-- "The Woman in Black" by Susan Hill
+**Literature**: The White Lady — Walter Scott (1828, in The Monastery); Numerous regional ghost-story collections in German, English, Czech, Dutch and Filipino traditions
 
-### Film & TV
-- "The Woman in Black" (films)
-- Numerous horror films featuring white-clad ghosts
-- Asian horror cinema (white ghost archetype common)
-- Urban legend documentaries
+**Film / TV**: The Curse of La Llorona (2019) — adjacent Latin American White Lady archetype; Numerous Filipino horror films featuring Balete Drive's White Lady
 
-### Other Media
-- Ghost tours at famous White Lady locations
-- Internet creepypasta and urban legend sites
-- Horror games featuring the archetype
+**Games**: Phasmophobia (2020) — generic White Lady-style ghost types
+
+**Other**: Cultural-heritage tours of Czech and German castles featuring named White Ladies; Halloween / Calan Gaeaf storytelling traditions in Wales
 
 ---
+## Sources
 
-## API Reference
+See [SOURCES.md](SOURCES.md) for the complete bibliography.
 
-Machine-readable data is available in [`api.json`](api.json).
 
-### Data Access
+## How to Report a Sighting
 
-```javascript
-// Using WyrdnessAPI
-const wyrd = new WyrdnessAPI();
-const whiteLady = await wyrd.getPhenomenon('white-lady');
-```
-
-### Direct Access
-
-```
-Raw JSON: https://raw.githubusercontent.com/wyrdness/white-lady/main/api.json
-```
+1. **GitHub Issue**: [Submit Sighting Report](../../issues/new?template=sighting_report.yml)
+2. Provide date, location, witnesses, description, conditions, and any evidence.
 
 ---
-
-## Sources & References
-
-See [SOURCES.md](SOURCES.md) for complete bibliography.
-
-### Primary Sources
-
-- Brunvand, J.H. (1981). *The Vanishing Hitchhiker: American Urban Legends and Their Meanings*. W. W. Norton.
-- Guiley, R.E. (2007). *The Encyclopedia of Ghosts and Spirits*. Facts on File.
-- Hauck, D.W. (2002). *Haunted Places: The National Directory*. Penguin Books.
-
----
-
 ## License
 
-- **Content**: [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/)
-- **Data**: [CC0 1.0](https://creativecommons.org/publicdomain/zero/1.0/)
+Content: [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/)  
+Data: [CC0 1.0](https://creativecommons.org/publicdomain/zero/1.0/)  
 
 ---
-
-<div align="center">
-
-*Part of the [Wyrdness](https://github.com/wyrdness) Paranormal Archive*
-
-[Suggest Correction](../../issues/new?template=correction.yml) • [Full API](api.json)
-
-</div>
+_Auto-generated from `api.json`. Do not edit by hand — edit `api.json` and run `make repo-docs`._
